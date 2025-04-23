@@ -1,0 +1,25 @@
+_repo: Jack-and-his-ostrich-b-An-African-story_75898
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stredder, Eleanor
+    alias: Stredder, E.‏ (Eleanor)‏
+    gutenberg_agent_id: '42315'
+    url: http://www.gutenberg.org/2009/agents/42315
+description: ''
+gutenberg_issued: '2025-04-17'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75898'
+language: en
+pgterms:marc905: 20250224064119stredder
+pgterms:marc906: '1900'
+pgterms:marc907: GB
+publication_note: '  $aLondon :$bT. Nelson and Sons, $c1900.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Jack and his ostrich : $b An African story'
+url: http://www.gutenberg.org/ebooks/75898
