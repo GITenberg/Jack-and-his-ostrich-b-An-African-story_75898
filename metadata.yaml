@@ -1,5 +1,8 @@
 _repo: Jack-and-his-ostrich-b-An-African-story_75898
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Stredder, Eleanor
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '42315'
     url: http://www.gutenberg.org/2009/agents/42315
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/75898#Jack-and-his-ostrich-b-An-African-story
 gutenberg_issued: '2025-04-17'
 gutenberg_type: Text
 identifiers:
